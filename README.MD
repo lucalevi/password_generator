@@ -8,7 +8,11 @@ Whether you're a developer, a security enthusiast, or just someone who hates rem
 
 ## 🎥 Demo
 
-![Password Generator Demo](demo.png)  
+<p align="center">
+  <img src="https://github.com/lucalevi/password_generator/raw/main/demo.png" width="400">
+</p>
+
+
 
 ---
 
