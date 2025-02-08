@@ -30,8 +30,8 @@ Whether you're a developer, a security enthusiast, or just someone who hates rem
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
-   cd password-generator
+   git clone https://github.com/your-username/password_generator.git
+   cd password_generator
    ```
 2. **Install Dependencies**:
     Make sure you have Python 3.x installed. Then, install the required package:
