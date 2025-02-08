@@ -85,7 +85,7 @@ Found a bug? Have a feature request? Want to add a new theme? Contributions are 
 
 ---
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
